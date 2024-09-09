@@ -26,7 +26,7 @@ This is a Single Product Page designed using Tailwind CSS. The page showcases a 
 
 - **Single Product Page : Mobile design**
 
-![](./asset/Single%20Product.png)
+![](./asset/Single%20Product-mobile.png)
 
 ### Links
 
