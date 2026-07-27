@@ -30,8 +30,8 @@ This is a Single Product Page designed using Tailwind CSS. The page showcases a 
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/Product_Page.git](https://github.com/hoor23/Product_Page.git)
-- Live Site URL: [https://hoor23.github.io/Product_Page/](https://hoor23.github.io/Product_Page/)
+- Solution URL: [https://github.com/HooriaSaeeda/Product_Page.git](https://github.com/HooriaSaeeda/Product_Page.git)
+- Live Site URL: [https://hooriasaeeda.github.io/Product_Page/](https://hooriasaeeda.github.io/Product_Page/)
 
 ## My process
 
