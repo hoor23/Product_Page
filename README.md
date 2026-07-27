@@ -55,10 +55,9 @@ This is a Single Product Page designed using Tailwind CSS. The page showcases a 
  - Implementing dark mode support using Tailwind's dark mode classes.
 
 ## Author
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-- Github - [hoor23](https://github.com/hoor23)
-- LinkedIn - [Hoor Seyda](www.linkedin.com/in/hoor-seyda-901176222)
-
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 ## Acknowledgments
 
 - Thanks to Tailwind CSS for providing a flexible framework that simplifies styling and responsive design.
